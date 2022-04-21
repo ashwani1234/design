@@ -1,0 +1,26 @@
+{
+  "name": "pkroutes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "custom.js",
+  "dependencies": {
+    "express": "^4.17.3",
+    "fs": "^0.0.1-security",
+    "http": "^0.0.1-security"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashwani1234/design.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashwani1234/design/issues"
+  },
+  "homepage": "https://github.com/ashwani1234/design#readme"
+}
